@@ -48,14 +48,12 @@
 
 ---
 ### 🌐 Contact
-<p align="center">
-  <a href="https://velog.io/@dukfeel">
-    <img src="https://img.shields.io/badge/velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
-  </a>
-    <a href="mailto:backend.wonseok@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</p>
+<a href="https://velog.io/@dukfeel">
+  <img src="https://img.shields.io/badge/Velog-1EBC8F?style=flat&logo=velog&logoColor=white" alt="Velog"/>
+</a>
+<a href="mailto:backend.wonseok@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 ### 📊 Status
 
