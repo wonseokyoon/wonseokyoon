@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A8B8&center=true&vCenter=true&width=435&lines=Backend+Engineer;Yoon wonseok" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=87CEEB&center=true&vCenter=true&width=905&lines=Backend+Engineer+Yoon+Wonseok;" alt="Typing SVG" />
 </p>
 
 ### 🧑‍💻 About Me
